@@ -339,3 +339,10 @@ html, body {
 		  bottom: 20px;
 		  }
 	  }
+
+    .lazy{
+      
+      padding: 0;
+      margin: 0;
+      margin: 0 auto;
+    }

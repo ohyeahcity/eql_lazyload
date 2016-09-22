@@ -1700,21 +1700,21 @@ h1 { font-size:60px; color:#666; }
 
 /***************---------16'0628----------****************/
 
-.logos .col-md-3 {
+.logos .col-md-4 {
 	padding:80px 25px;
 	text-align: center;
 }
 
-.logos .col-md-3 img {
-	margin-bottom:30px;
+.logos .col-md-4 img {
+	margin-bottom:40px;
 }
 
-.logos .col-md-3 p {
+.logos .col-md-4 p {
 	font-size:18px;
 	letter-spacing: 1px;
 }
 
-.logos .col-md-3 a:hover {
+.logos .col-md-4 a:hover {
 	color: 00CFFF
 }
 

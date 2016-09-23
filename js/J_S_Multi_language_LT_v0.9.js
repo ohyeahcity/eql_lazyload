@@ -82,22 +82,15 @@ function changeNavBarUIWording(lang_index){
 }
 
 function changeAllNavBarUIWording(arr,lang_index){
-/*
-  document.getElementById('nav_link1_wording').innerHTML = arr[lang_index].NavLink1;
-  document.getElementById('nav_link2_wording').innerHTML = arr[lang_index].NavLink2;
-  document.getElementById('nav_link3_wording').innerHTML = arr[lang_index].NavLink3;
-  document.getElementById('nav_link4_wording').innerHTML = arr[lang_index].NavLink4;
-  document.getElementById('nav_link5_wording').innerHTML = arr[lang_index].NavLink5;*/
-
   document.getElementById('lang_navabout').innerHTML = arr[lang_index].lang_navabout;
   document.getElementById('lang_navproduct').innerHTML = arr[lang_index].lang_navproduct;
-  document.getElementById('lang_navhomie').innerHTML = arr[lang_index].lang_navhomie;
+  document.getElementById('lang_navripple').innerHTML = arr[lang_index].lang_navripple;
   document.getElementById('lang_roomhub').innerHTML = arr[lang_index].lang_roomhub;
   document.getElementById('lang_pm25').innerHTML = arr[lang_index].lang_pm25;
   document.getElementById('lang_navair').innerHTML = arr[lang_index].lang_navair;
   document.getElementById('lang_navpressure').innerHTML = arr[lang_index].lang_navpressure;
   document.getElementById('lang_navessence').innerHTML = arr[lang_index].lang_navessence;
-  document.getElementById('lang_navripple').innerHTML = arr[lang_index].lang_navripple;
+  /*document.getElementById('lang_navripple').innerHTML = arr[lang_index].lang_navripple;
   document.getElementById('lang_central').innerHTML = arr[lang_index].lang_central;
   document.getElementById('lang_door').innerHTML = arr[lang_index].lang_door;
   document.getElementById('lang_light').innerHTML = arr[lang_index].lang_light;
@@ -105,7 +98,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_plug').innerHTML = arr[lang_index].lang_plug;
   document.getElementById('lang_shock').innerHTML = arr[lang_index].lang_shock;
   document.getElementById('lang_smoke').innerHTML = arr[lang_index].lang_smoke;
-  document.getElementById('lang_weather').innerHTML = arr[lang_index].lang_weather;
+  document.getElementById('lang_weather').innerHTML = arr[lang_index].lang_weather;*/
   document.getElementById('lang_navstick').innerHTML = arr[lang_index].lang_navstick;
   document.getElementById('lang_navinformation').innerHTML = arr[lang_index].lang_navinformation;
   document.getElementById('lang_navcontact').innerHTML = arr[lang_index].lang_navcontact;

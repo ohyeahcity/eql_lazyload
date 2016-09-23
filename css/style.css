@@ -1817,6 +1817,12 @@ h1 { font-size:60px; color:#666; }
 	}
 }
 
+@media (max-width:767px){
+
+.logos .col-md-4 {
+	padding:60px 25px;
+}
+
 
 .fix_clear {
 	clear:both;
